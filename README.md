@@ -8,5 +8,5 @@
  On peut zommer sur le personnage avec la roulette de la souris et sprinter avec LeftShift. 
  
  Le saut se fait à l'aide de la barre d'espacement, il nécessite un peu de fine tuning pour améliorer la retombée
- ainsi que la montée lors. 
+ ainsi que la montée. 
  
